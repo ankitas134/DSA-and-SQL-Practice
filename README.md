@@ -15,4 +15,16 @@
 | [0584-find-customer-referee](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [1683-invalid-tweets](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
