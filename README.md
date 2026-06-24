@@ -12,5 +12,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [1683-invalid-tweets](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
