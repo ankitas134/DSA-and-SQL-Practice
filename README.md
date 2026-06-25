@@ -19,12 +19,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
