@@ -6,9 +6,9 @@ class Solution:
             if nums[i]==nums[i+1]:
                 return True
             return False'''
-        seen=set()
-        for num in nums:
-            if num in seen:
+        seen=set() #setup
+        for num in nums:  #one num at a time
+            if num in seen: #if num exists
                 return True
-            seen.add(num)
+            seen.add(num) #add it to the seen list
         return False
