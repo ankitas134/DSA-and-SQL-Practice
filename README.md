@@ -19,11 +19,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0242-valid-anagram/) | Easy |
