@@ -8,6 +8,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0344-reverse-string/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +35,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
