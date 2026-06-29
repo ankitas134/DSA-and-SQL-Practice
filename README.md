@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -42,4 +43,8 @@
 | [0049-group-anagrams](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0242-valid-anagram/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
