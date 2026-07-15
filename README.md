@@ -14,6 +14,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0197-rising-temperature](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0584-find-customer-referee](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ankitas134/DSA_Practice_Neetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
